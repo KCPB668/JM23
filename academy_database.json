@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-14T05:50:44.721Z",
+  "lastUpdated": "2026-10-14T05:51:13.763Z",
   "clubName": "JM23 ACADEMY",
   "players": [
     {
@@ -593,17 +593,7 @@
       "linkedTrainingLogId": "tr-U-12-2026-09-20"
     }
   ],
-  "todos": [
-    {
-      "id": "td-1789928059525",
-      "task": "แก้ไขระบบแดชบอร์ดทุก Tab",
-      "assignee": "กรรชัย ภูบังไม้",
-      "dueDate": "2026-09-20",
-      "priority": "High",
-      "completed": false,
-      "category": "Training"
-    }
-  ],
+  "todos": [],
   "notes": [],
   "driveFiles": [
     {
