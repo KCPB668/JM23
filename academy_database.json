@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-14T06:59:23.425Z",
+  "lastUpdated": "2026-10-14T07:39:36.546Z",
   "clubName": "JM23 ACADEMY",
   "players": [],
   "staff": [],
@@ -2161,11 +2161,11 @@
   "userAccounts": [
     {
       "id": "user-admin-1",
-      "username": "admin",
-      "password": "password123",
+      "username": "kcpb vincente hub",
+      "password": "JM23xVincenteHub",
       "role": "admin",
-      "displayName": "ผู้บริหาร / ผู้ดูแลระบบสโมสร (Admin)",
-      "phone": "081-888-9999",
+      "displayName": "Vincente Hub/ ผู้ดูแลระบบสโมสร (Admin)",
+      "phone": "",
       "email": "admin@ska-academy.com",
       "notes": "บัญชีผู้ดูแลระบบหลัก มีสิทธิ์เต็มในการจัดการข้อมูลและสร้างบัญชีผู้ใช้งาน",
       "isActive": true,
