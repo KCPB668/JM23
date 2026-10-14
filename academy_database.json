@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-14T06:05:09.592Z",
+  "lastUpdated": "2026-10-14T06:05:18.646Z",
   "clubName": "JM23 ACADEMY",
   "players": [
     {
@@ -2230,18 +2230,6 @@
     ],
     "registrations": [
       {
-        "id": "reg-1789914412199",
-        "playerId": "p-1789898922205",
-        "playerName": "ณิชพ ปิยัง",
-        "playerNickname": "นท",
-        "jerseyNumber": 7,
-        "ageGroup": "U-14",
-        "daysAttending": [],
-        "registeredAt": "2026-09-20T14:26:52.199Z",
-        "reasonOrNote": "ลาทั้งสัปดห์เพราะสอบ",
-        "transportType": "ผู้ปกครองมาส่ง"
-      },
-      {
         "id": "reg-1789904182929",
         "playerId": "p-1789899479141",
         "playerName": "ดรูฟ จูปิเตอร์",
@@ -2259,7 +2247,7 @@
         "transportType": "รถรับส่งสโมสร"
       }
     ],
-    "lastUpdated": "2026-09-20T14:26:52.199Z"
+    "lastUpdated": "2026-10-14T06:05:17.537Z"
   },
   "userAccounts": [
     {
