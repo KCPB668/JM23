@@ -1,10 +1,51 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-14T13:05:08.775Z",
+  "lastUpdated": "2026-10-14T13:09:09.718Z",
   "clubName": "JM23 ACADEMY",
   "players": [],
   "staff": [],
-  "idpProfiles": {},
+  "idpProfiles": {
+    "p1": {
+      "playerId": "p1",
+      "technical": {
+        "firstTouch": 7.5,
+        "passing": 7.5,
+        "dribbling": 7.5,
+        "finishing": 7,
+        "tackling1v1": 7
+      },
+      "tactical": {
+        "gameIQ": 7.5,
+        "positioning": 7.5,
+        "transitionSpeed": 7.5,
+        "decisionMaking": 7.5
+      },
+      "physical": {
+        "speed": 7.5,
+        "agility": 7.5,
+        "stamina": 7.5,
+        "strength": 7
+      },
+      "psychological": {
+        "workRate": 8,
+        "leadership": 7.5,
+        "coachability": 8.5,
+        "resilience": 8
+      },
+      "shortTermGoals": [
+        {
+          "id": "g-default",
+          "title": "พัฒนาทักษะการสัมผัสบอลแรกและจ่ายบอล 2 จังหวะ",
+          "status": "In Progress",
+          "targetDate": "2026-10-31"
+        }
+      ],
+      "longTermAmbition": "พัฒนาสู่การเป็นนักเตะตัวแทนจังหวัดชลบุรี และเข้าสู่ลีกอาชีพเยาวชน",
+      "lastAssessedDate": "2026-09-05",
+      "evaluatorCoach": "โค้ชชัยวัฒน์ นาคพงษ์",
+      "coachSummaryNotes": "มีพัฒนาการอย่างต่อเนื่อง รักษาวินัยและความกระตือรือร้นในการฝึกซ้อม"
+    }
+  },
   "trainingLogs": [
     {
       "id": "tr-ทุกรุ่นอายุ-2026-09-21",
