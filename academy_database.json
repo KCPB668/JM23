@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-14T12:57:44.217Z",
+  "lastUpdated": "2026-10-14T13:04:08.442Z",
   "clubName": "JM23 ACADEMY",
   "players": [],
   "staff": [],
@@ -2177,11 +2177,50 @@
       "password": "CoachJoeBarca.JM23",
       "role": "admin",
       "displayName": "Coach Joe-Taweesak",
-      "phone": "",
-      "email": "",
-      "notes": "ผู้บริหารอคาเดมี่",
+      "phone": "081-998-3344",
+      "email": "coachjoe@ska-academy.com",
+      "notes": "บัญชีผู้ดูแลระบบหลัก มีสิทธิ์เต็มในการจัดการข้อมูลและสร้างบัญชีผู้ใช้งาน มีแดชบอร์ดและสิทธิ์เหมือนของผม",
       "isActive": true,
       "createdAt": "2026-10-14T07:42:06.186Z"
+    },
+    {
+      "id": "user-coach-1",
+      "username": "coach",
+      "password": "coach1234",
+      "role": "coach",
+      "displayName": "โค้ชชัยวัฒน์ นาคพงษ์ (โค้ชวัฒน์)",
+      "phone": "081-998-3344",
+      "email": "chaiwat.coach@ska-academy.com",
+      "notes": "หัวหน้าผู้ฝึกสอนอคาเดมี่ (Academy Head Coach)",
+      "isActive": true,
+      "createdAt": "2026-01-10T00:00:00.000Z"
+    },
+    {
+      "id": "user-player-1",
+      "username": "player",
+      "password": "player1234",
+      "role": "player",
+      "displayName": "ด.ช. ภูผา สุวรรณรัตน์ (#10 น้องภูผา)",
+      "linkedPlayerId": "p1",
+      "phone": "081-456-7890",
+      "notes": "ผู้เล่นรุ่น U-12 ตำแหน่ง CAM",
+      "isActive": true,
+      "createdAt": "2026-02-01T00:00:00.000Z"
+    },
+    {
+      "id": "user-parent-1",
+      "username": "parent",
+      "password": "parent1234",
+      "role": "parent",
+      "displayName": "คุณสุทิน สุวรรณรัตน์ (ผู้ปกครองน้องภูผา)",
+      "linkedPlayerId": "p1",
+      "linkedPlayerIds": [
+        "p1"
+      ],
+      "phone": "081-456-7890",
+      "notes": "ผู้ปกครอง ด.ช.ภูผา สุวรรณรัตน์ (U-12)",
+      "isActive": true,
+      "createdAt": "2026-02-01T00:00:00.000Z"
     }
   ]
 }
