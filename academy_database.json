@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2026-10-14T07:39:40.481Z",
+  "lastUpdated": "2026-10-14T07:42:09.396Z",
   "clubName": "JM23 ACADEMY",
   "players": [],
   "staff": [],
@@ -2170,6 +2170,18 @@
       "notes": "บัญชีผู้ดูแลระบบหลัก มีสิทธิ์เต็มในการจัดการข้อมูลและสร้างบัญชีผู้ใช้งาน",
       "isActive": true,
       "createdAt": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "user-1791963726186-ku79",
+      "username": "coachjoe jm23",
+      "password": "CoachJoeBarca.JM23",
+      "role": "admin",
+      "displayName": "Coach Joe-Taweesak",
+      "phone": "",
+      "email": "",
+      "notes": "ผู้บริหารอคาเดมี่",
+      "isActive": true,
+      "createdAt": "2026-10-14T07:42:06.186Z"
     }
   ]
 }
